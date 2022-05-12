@@ -1,2 +1,7 @@
 # Api-AspNet-Core6
-Api Asp .Net Core 6
+
+This Project use:
+
+- Api Asp .Net Core 6;
+- Authorization JWT Bearer;
+- Swagger;
